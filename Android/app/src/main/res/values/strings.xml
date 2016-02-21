@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Global Tasker</string>
+    <string name="title_activity_new_task">NewTask</string>
+    <string name="host">207.73.177.176</string>
+</resources>
